@@ -1,0 +1,22 @@
+body {
+    font-family: "Playfair Display", serif;
+
+}
+
+h1 {
+    color: #084cb1;
+
+    font-weight: 900;
+}
+
+#quotes-box {
+    color: #F66F83;
+    padding: 10px;
+
+}
+
+.btn {
+    color: #F66F83;
+    font-size: 20px;
+    font-weight: 600;
+}
